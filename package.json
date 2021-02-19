@@ -20,8 +20,8 @@
   },
   "dependencies": {
     "@babel/runtime-corejs2": "^7.12.13",
-    "@squarespace/core": "^1.0.0",
-    "@squarespace/layout-base": "^1.0.0",
+    "@squarespace/core": "^1.2.1",
+    "@squarespace/layout-base": "^1.0.3",
     "lodash": "^4.17.20"
   },
   "devDependencies": {
@@ -33,7 +33,7 @@
     "babel-plugin-add-module-exports": "^1.0.4",
     "cpy-cli": "^3.1.1",
     "eslint": "^7.19.0",
-    "eslint-config-squarespace": "^1.0.0",
+    "eslint-config-squarespace": "^2.0.0",
     "rimraf": "^3.0.2"
   },
   "main": "dist/index.js",
