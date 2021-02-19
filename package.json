@@ -1,6 +1,6 @@
 {
   "name": "@squarespace/layout-autocolumns",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A module to layout items in a vertical grid",
   "author": "Squarespace, Inc.",
   "license": "SEE LICENSE IN LICENSE.txt",
